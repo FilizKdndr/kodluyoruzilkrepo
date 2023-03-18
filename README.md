@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo 
-=======
 # Kodluyoruz İlk Repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
@@ -27,4 +23,3 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde olulturd
  
  ## Licence
  [MIT](https://choosealicense.com/licenses/mit/)
-
